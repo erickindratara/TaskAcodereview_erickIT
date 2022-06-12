@@ -1,6 +1,6 @@
 **A code Review**
 
-**Description : **File deletion with parameter filepath and creation date
+**Description : ** File deletion with parameter filepath and creation date
 
 I created this project in order to answer my application test as a .Net programmer,
 I created this with Microsoft Visual Studio Community 2022 (64 bit),
