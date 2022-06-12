@@ -3,67 +3,72 @@ class Program
 {
     static void Main(string[] args)
     {
-        string dirpath = "";
-        dirpath = inputpath(args);
-        while (!pathvalid(dirpath))
-        {
-            Console.WriteLine("the directory:" + dirpath + " is invalid.");
+        bool exit = false;
+         
+            string dirpath = "";
             dirpath = inputpath(args);
-        }
-        DateTime compareDate = Convert.ToDateTime("01 Jan 1900");
-        bool datevalid = false;
-        while (!datevalid)
-        {
-            try
+            while (!pathvalid(dirpath))
             {
-                compareDate = DateTime.Parse(inputdate());
-                datevalid = true;
+                Console.WriteLine("the directory:" + dirpath + " is invalid.");
+                dirpath = inputpath(args);
             }
-            catch (Exception ex)
+            DateTime compareDate = Convert.ToDateTime("01 Jan 1900");
+            bool datevalid = false;
+            while (!datevalid)
             {
-                DateTime newdate = DateTime.Now.AddMonths(-3);
-                Console.WriteLine("you have inputted invalid date, would you use " + newdate.ToString() + "instead? (Y/N)");
-                String answer = Console.ReadLine().ToUpper();
-                if (answer == "Y")
+                try
                 {
-                    compareDate = newdate;
+                    compareDate = DateTime.Parse(inputdate());
                     datevalid = true;
                 }
-                else if (answer == "N")
+                catch (Exception ex)
+                {
+                    DateTime newdate = DateTime.Now.AddMonths(-3);
+                    Console.WriteLine("you have inputted invalid date, would you use " + newdate.ToString() + "instead? (Y/N)");
+                    String answer = Console.ReadLine().ToUpper();
+                    if (answer == "Y")
+                    {
+                        compareDate = newdate;
+                        datevalid = true;
+                    }
+                    else if (answer == "N")
+                    {
+                        Console.WriteLine("allright.");
+                        datevalid = false;
+                    }
+                    else
+                    {
+                        Console.WriteLine("unrecognized command");
+                        datevalid = false;
+                    }
+
+                }
+            }
+            int datacount = files(dirpath, compareDate, "display");
+            if (datacount > 0)
+            {
+                Console.WriteLine("there are " + datacount.ToString() + " File(s). are you sure want to delete these file(s)?(Y/N)");
+                var deleteanswer = Console.ReadLine().ToUpper();
+                if (deleteanswer == "Y")
+                {
+                    files(dirpath, compareDate, "delete");
+                }
+                else if (deleteanswer == "N")
                 {
                     Console.WriteLine("allright.");
-                    datevalid = false;
                 }
                 else
                 {
                     Console.WriteLine("unrecognized command");
-                    datevalid = false;
                 }
-
-            }
-        }
-        int datacount = files(dirpath, compareDate, "display");
-        if (datacount > 0)
-        {
-            Console.WriteLine("there are " + datacount.ToString() + " File(s). are you sure want to delete these file(s)?(Y/N)");
-            var deleteanswer = Console.ReadLine().ToUpper();
-            if (deleteanswer == "Y")
-            {
-                files(dirpath, compareDate, "delete");
-            }
-            else if (deleteanswer == "N")
-            {
-                Console.WriteLine("allright.");
             }
             else
             {
-                Console.WriteLine("unrecognized command");
-            }
+                Console.WriteLine("there are no files;");
         }
-        else
-        {
-            Console.WriteLine("there are no files;");
-        }
+        Console.WriteLine("press any key to exit.......");
+        Console.ReadKey(); 
+        
 
     }
     static int files(string dirpath, DateTime compareDate, string action)
