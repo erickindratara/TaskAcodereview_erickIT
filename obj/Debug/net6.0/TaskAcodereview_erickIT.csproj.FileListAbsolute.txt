@@ -28,3 +28,18 @@ C:\Users\Dell7010\Documents\GitHub\TaskAcodereview_erickIT\bin\Debug\net6.0\Task
 C:\Users\Dell7010\Documents\GitHub\TaskAcodereview_erickIT\bin\Debug\net6.0\ref\TaskAcodereview_erickIT.dll
 C:\Users\Dell7010\Documents\GitHub\TaskAcodereview_erickIT\bin\Debug\net6.0\TaskAcodereview_erickIT.pdb
 C:\Users\Dell7010\Documents\GitHub\TaskAcodereview_erickIT\obj\Debug\net6.0\TaskAcodereview_erickIT.genruntimeconfig.cache
+C:\Rep_luminary\Task A\TaskAcodereview_erickIT\bin\Debug\net6.0\TaskAcodereview_erickIT.exe
+C:\Rep_luminary\Task A\TaskAcodereview_erickIT\bin\Debug\net6.0\TaskAcodereview_erickIT.deps.json
+C:\Rep_luminary\Task A\TaskAcodereview_erickIT\bin\Debug\net6.0\TaskAcodereview_erickIT.runtimeconfig.json
+C:\Rep_luminary\Task A\TaskAcodereview_erickIT\bin\Debug\net6.0\TaskAcodereview_erickIT.dll
+C:\Rep_luminary\Task A\TaskAcodereview_erickIT\bin\Debug\net6.0\ref\TaskAcodereview_erickIT.dll
+C:\Rep_luminary\Task A\TaskAcodereview_erickIT\bin\Debug\net6.0\TaskAcodereview_erickIT.pdb
+C:\Rep_luminary\Task A\TaskAcodereview_erickIT\obj\Debug\net6.0\TaskAcodereview_erickIT.csproj.AssemblyReference.cache
+C:\Rep_luminary\Task A\TaskAcodereview_erickIT\obj\Debug\net6.0\TaskAcodereview_erickIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rep_luminary\Task A\TaskAcodereview_erickIT\obj\Debug\net6.0\TaskAcodereview_erickIT.AssemblyInfoInputs.cache
+C:\Rep_luminary\Task A\TaskAcodereview_erickIT\obj\Debug\net6.0\TaskAcodereview_erickIT.AssemblyInfo.cs
+C:\Rep_luminary\Task A\TaskAcodereview_erickIT\obj\Debug\net6.0\TaskAcodereview_erickIT.csproj.CoreCompileInputs.cache
+C:\Rep_luminary\Task A\TaskAcodereview_erickIT\obj\Debug\net6.0\TaskAcodereview_erickIT.dll
+C:\Rep_luminary\Task A\TaskAcodereview_erickIT\obj\Debug\net6.0\ref\TaskAcodereview_erickIT.dll
+C:\Rep_luminary\Task A\TaskAcodereview_erickIT\obj\Debug\net6.0\TaskAcodereview_erickIT.pdb
+C:\Rep_luminary\Task A\TaskAcodereview_erickIT\obj\Debug\net6.0\TaskAcodereview_erickIT.genruntimeconfig.cache
