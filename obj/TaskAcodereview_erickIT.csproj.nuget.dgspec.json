@@ -1,28 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell7010\\Documents\\GitHub\\TaskAcodereview_erickIT\\TaskAcodereview_erickIT.csproj": {}
+    "C:\\Rep_luminary\\Task A\\TaskAcodereview_erickIT\\TaskAcodereview_erickIT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell7010\\Documents\\GitHub\\TaskAcodereview_erickIT\\TaskAcodereview_erickIT.csproj": {
+    "C:\\Rep_luminary\\Task A\\TaskAcodereview_erickIT\\TaskAcodereview_erickIT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell7010\\Documents\\GitHub\\TaskAcodereview_erickIT\\TaskAcodereview_erickIT.csproj",
+        "projectUniqueName": "C:\\Rep_luminary\\Task A\\TaskAcodereview_erickIT\\TaskAcodereview_erickIT.csproj",
         "projectName": "TaskAcodereview_erickIT",
-        "projectPath": "C:\\Users\\Dell7010\\Documents\\GitHub\\TaskAcodereview_erickIT\\TaskAcodereview_erickIT.csproj",
-        "packagesPath": "C:\\Users\\Dell7010\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell7010\\Documents\\GitHub\\TaskAcodereview_erickIT\\obj\\",
+        "projectPath": "C:\\Rep_luminary\\Task A\\TaskAcodereview_erickIT\\TaskAcodereview_erickIT.csproj",
+        "packagesPath": "C:\\Users\\cris\\.nuget\\packages\\",
+        "outputPath": "C:\\Rep_luminary\\Task A\\TaskAcodereview_erickIT\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dell7010\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\cris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
