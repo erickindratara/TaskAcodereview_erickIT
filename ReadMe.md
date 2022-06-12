@@ -26,7 +26,7 @@ if you just want to use the program, then find the exe files inside this bin\Deb
 
 simple I will tell you with a diagram so you know what this code do:
 
-![Test Image 1](drawing1.jpg)
+![Test Image 1](Drawing1.jpg)
 
 it should work, otherwise you will need to install .net framework 6.0 in your computer.
 
