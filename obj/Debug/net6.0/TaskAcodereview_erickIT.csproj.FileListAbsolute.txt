@@ -1,0 +1,15 @@
+C:\Users\cris\source\repos\TaskAcodereview_erickIT\bin\Debug\net6.0\TaskAcodereview_erickIT.exe
+C:\Users\cris\source\repos\TaskAcodereview_erickIT\bin\Debug\net6.0\TaskAcodereview_erickIT.deps.json
+C:\Users\cris\source\repos\TaskAcodereview_erickIT\bin\Debug\net6.0\TaskAcodereview_erickIT.runtimeconfig.json
+C:\Users\cris\source\repos\TaskAcodereview_erickIT\bin\Debug\net6.0\TaskAcodereview_erickIT.dll
+C:\Users\cris\source\repos\TaskAcodereview_erickIT\bin\Debug\net6.0\ref\TaskAcodereview_erickIT.dll
+C:\Users\cris\source\repos\TaskAcodereview_erickIT\bin\Debug\net6.0\TaskAcodereview_erickIT.pdb
+C:\Users\cris\source\repos\TaskAcodereview_erickIT\obj\Debug\net6.0\TaskAcodereview_erickIT.csproj.AssemblyReference.cache
+C:\Users\cris\source\repos\TaskAcodereview_erickIT\obj\Debug\net6.0\TaskAcodereview_erickIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cris\source\repos\TaskAcodereview_erickIT\obj\Debug\net6.0\TaskAcodereview_erickIT.AssemblyInfoInputs.cache
+C:\Users\cris\source\repos\TaskAcodereview_erickIT\obj\Debug\net6.0\TaskAcodereview_erickIT.AssemblyInfo.cs
+C:\Users\cris\source\repos\TaskAcodereview_erickIT\obj\Debug\net6.0\TaskAcodereview_erickIT.csproj.CoreCompileInputs.cache
+C:\Users\cris\source\repos\TaskAcodereview_erickIT\obj\Debug\net6.0\TaskAcodereview_erickIT.dll
+C:\Users\cris\source\repos\TaskAcodereview_erickIT\obj\Debug\net6.0\ref\TaskAcodereview_erickIT.dll
+C:\Users\cris\source\repos\TaskAcodereview_erickIT\obj\Debug\net6.0\TaskAcodereview_erickIT.pdb
+C:\Users\cris\source\repos\TaskAcodereview_erickIT\obj\Debug\net6.0\TaskAcodereview_erickIT.genruntimeconfig.cache
